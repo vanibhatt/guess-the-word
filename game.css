@@ -1,0 +1,53 @@
+body
+{
+	background: lightblue;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 500px;
+		border-style: solid;
+		border-width: 50;
+		font-family: 'Baloo Tammudu 2', cursive;
+
+	}
+
+
+#player_1_display , #player_2_display
+{
+	display: inline-block;
+	margin-left: 20px;
+	font-family: 'Baloo Tammudu 2', cursive;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#question
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1{
+	font-family: 'Baloo Tammudu 2', cursive;
+	font-weight: 800;
+	text-shadow: 50px,black;
+}
+
+#login_button{
+	font-weight: 700;
+	font-family: 'Baloo Tammudu 2', cursive;
+}
